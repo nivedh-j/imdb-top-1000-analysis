@@ -28,4 +28,4 @@ Plotly
 - Ratings generally fall between 7.5 and 8.5.
 
 ## Conclusion
-Summary of findings.
+The analysis of the IMDB Top 1000 movies dataset reveals several patterns. Drama dominates the dataset, while action films generate the highest box office revenue. Movies with higher revenue tend to receive more audience votes, indicating strong audience engagement. Most films fall within a runtime range of 100–140 minutes and ratings typically lie between 7.5 and 8.5.
