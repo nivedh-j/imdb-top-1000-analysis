@@ -1,7 +1,8 @@
 # IMDB Top 1000 Movies - Exploratory Data Analysis
 
 ## Project Overview
-Short description of what the project analyzes.
+This project performs Exploratory Data Analysis (EDA) on the IMDB Top 1000 Movies dataset.
+The analysis explores patterns in movie ratings, genres, runtime, revenue, and audience engagement to uncover insights about successful films.
 
 ## Dataset
 IMDB Top 1000 movies dataset containing ratings, votes, runtime, gross revenue, etc.
